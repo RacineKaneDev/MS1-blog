@@ -1,0 +1,20 @@
+{
+  "generator-jhipster": {
+    "applicationIndex": 1,
+    "applicationType": "microservice",
+    "authenticationType": "oauth2",
+    "baseName": "blog",
+    "entities": ["Blog", "Post", "Tag"],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "M2Q0MWZmOTA0ZDAzYWRlMjgyYzI0MDI5ZmQ1NjVjZDEzZTQ3YWU0ZmJjYTY5Nzc1YTMwN2Y3MmM3MDBjMjdkYmZkOWVmYzAyYmQ1NGFmZTZlODgwZDk3MmUyMjU0MDFiZjU4MWQ3YzM0NjI1NGU2ZjMxM2JmY2U2OWY1MDc3ZjI=",
+    "languages": ["en"],
+    "lastLiquibaseTimestamp": 1733576013000,
+    "nativeLanguage": "en",
+    "packageName": "com.okta.developer.blog",
+    "prodDatabaseType": "postgresql",
+    "serverPort": "8081",
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
